@@ -1,0 +1,81 @@
+.contact {
+    padding-top: 4em;
+}
+.contact-main h3 {
+    color: #1fadc5;
+    font-size: 3em;
+    font-weight: 400;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+}
+.contact-main p {
+    font-size: 0.9em;
+    color: #000;
+    line-height: 1.7em;
+    margin: 1em auto;
+    width: 85%;
+    text-align: center;
+}
+.contact-top-left {
+    float: left;
+    width: 30%;
+}
+.contact-top-right{
+    float: right;
+}
+.contact-top-one h4 {
+    color: #1FADC5;
+    font-size: 1.4em;
+    font-weight: 400;
+    margin: 0;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: left;
+}
+.contact-top-one h6 {
+    color: #000;
+    font-size: 0.9em;
+    font-weight: 400;
+    line-height: 1.6em;
+    margin: 1em 0;
+    text-align: left;
+}
+.contact-top-one h6 span{
+	display:block;
+}
+.contact-top-one p, .contact-top-one p a {
+    color: #000;
+    font-size: 0.9em;
+    margin: 1em 0px;
+    line-height: 1.8em;
+    text-align: left;
+    font-weight: 400;
+}
+.contact-top-right{
+	text-align: center;
+}
+.contact-top-right form input[type="text"] {
+    width: 32.95%;
+    color: #898888;
+    outline: none;
+    font-size: 0.9em;
+    padding: 10px 10px;
+    margin-bottom: 1em;
+    border: solid 1px #B6B7BA;
+    -webkit-appearance: none;
+}
+.contact-top-right form textarea {
+    resize: none;
+    width: 100%;
+    color: #898888;
+    font-size: 0.9em;
+    outline: none;
+    padding: 10px 10px;
+    border: solid 1px #B6B7BA;
+    min-height: 12em;
+    -webkit-appearance: none;
+}
+
+.sub-button input[type="submit"] {
+    float: left;
+    margin-bottom: 3em;
+}
